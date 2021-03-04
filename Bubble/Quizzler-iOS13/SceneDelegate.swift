@@ -1,8 +1,9 @@
 //
 //  SceneDelegate.swift
-//  Bubble
+//  Quizzler-iOS13
 //
-//  Created by 김시빈 on 2021/03/04.
+//  Created by Angela Yu on 12/07/2019.
+//  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
 import UIKit
@@ -23,7 +24,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Called as the scene is being released by the system.
         // This occurs shortly after the scene enters the background, or when its session is discarded.
         // Release any resources associated with this scene that can be re-created the next time the scene connects.
-        // The scene may re-connect later, as its session was not necessarily discarded (see `application:didDiscardSceneSessions` instead).
+        // The scene may re-connect later, as its session was not neccessarily discarded (see `application:didDiscardSceneSessions` instead).
     }
 
     func sceneDidBecomeActive(_ scene: UIScene) {
